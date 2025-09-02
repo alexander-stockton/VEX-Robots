@@ -1,31 +1,37 @@
-# VEX-Robots
+# Remote-Operated Disk Launcher
 
-----------------
-- Team Members -
-----------------
-- Austin Neubauer
-- Alex Stockton
-- James Wiley
+## Team Members
+- **Austin Neubauer**
+- **Alex Stockton**
+- **James Wiley**
 
----------
-- Roles -
----------
-- Austin (Programming, Project Design)
-- Alex (Programming, Documentation)
-- James (Programming, Modeling/Design, Project Design)
+## Roles
+- **Austin** — Programming, Project Design  
+- **Alex** — Programming, Documentation  
+- **James** — Programming, Modeling/Design, Project Design  
 
---------------
-- Objectives -
---------------
-Our primary objective is to design and control a remote-operated disk-launcher. The robot will be controlled by a remote with a button to launch each manually-loaded disk. At the bare minimum, the robot should:
-  - Contain at least one disk-ammunition slot
-  - Move in response to user-input on a connected remote control
-  - Turn left or right on a point without changing position
-  - Increase and decrease the pitching angle of the disk
-  - Launch a disk
-Our ultimate goal is to design a robot that, given any location on the field, collects ammunition, chambers it, locates a persistent target, calculates the horizontal and vertical angles at which to launch the disk to hit that target. In an ideal scenario, the robot will:
-  - Automatically collect ammunition
-  - Automatically chamber ammunition to prepare for launching
-  - Automatically find the specified target from any given position
-  - Automatically calculate the launch trajectory
-  - Launch a disk a set time after locating the specified target
+---
+
+## Objectives
+
+### Minimum Requirements
+Our primary objective is to design and control a **remote-operated disk launcher robot**. The robot will be controlled via a remote with a button to manually launch each loaded disk.
+
+At a minimum, the robot should be able to:
+- Hold **at least one** disk-ammunition slot
+- **Move** based on user input from a remote control
+- **Turn** left or right in place (pivoting without linear movement)
+- **Adjust the pitch angle** of the disk launcher (increase/decrease)
+- **Launch a disk**
+
+---
+
+### Ideal Goals
+Our ultimate goal is to design a **fully autonomous disk-launching robot**.
+
+This robot should be able to:
+- **Automatically collect ammunition**
+- **Chamber ammunition** in preparation for launch
+- **Locate a persistent target** from any position on the field
+- **Calculate a launch trajectory**, including both horizontal and vertical angles
+- **Launch the disk** a set time after target acquisition
