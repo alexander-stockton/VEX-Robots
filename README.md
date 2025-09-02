@@ -35,3 +35,7 @@ This robot should be able to:
 - [ ] **Locate a persistent target** from any position on the field
 - [ ] **Calculate a launch trajectory**, including both horizontal and vertical angles
 - [ ] **Launch the disk** a set time after target acquisition
+
+---
+
+Last updated: `9/2/2025`
