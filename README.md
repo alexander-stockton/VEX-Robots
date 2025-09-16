@@ -6,8 +6,8 @@
 - **Alex Stockton**
 
 ## Roles
-- **Austin** — Lead Programmer, Project Design
-- **James** — Lead Designer, Programming
+- **Austin** — Lead Builder, Designer
+- **James** — Lead Programmer, Lead Designer
 - **Alex** — Documentation, Builder
 
 ---
