@@ -2,13 +2,13 @@
 
 ## Team Members
 - **Austin Neubauer**
-- **Alex Stockton**
 - **James Wiley**
+- **Alex Stockton**
 
 ## Roles
-- **Austin** — Programming, Project Design  
-- **Alex** — Programming, Documentation  
-- **James** — Programming, Modeling/Design, Project Design  
+- **Austin** — Lead Programmer, Project Design
+- **James** — Lead Designer, Programming
+- **Alex** — Documentation, Builder
 
 ---
 
@@ -38,4 +38,4 @@ This robot should be able to:
 
 ---
 
-Last updated: `9/2/2025`
+Last updated: `9/16/2025`
