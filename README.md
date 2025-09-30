@@ -32,10 +32,10 @@ Our ultimate goal is to design an **autonomous disk-launching robot**.
 This robot should be able to:
 - [ ] **Automatically collect ammunition**
 - [ ] **Chamber ammunition** in preparation for launch
-- [ ] **Locate a persistent target** from any position on the field
+- [x] **Locate a persistent target** from any position on the field
 - [ ] **Calculate a launch trajectory**, including both horizontal and vertical angles
 - [ ] **Launch the disk** a set time after target acquisition
 
 ---
 
-Last updated: `9/16/2025`
+Last updated: `9/30/2025`
