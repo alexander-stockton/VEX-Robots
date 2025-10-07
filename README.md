@@ -18,7 +18,7 @@
 Our primary objective is to design and control a **remote-operated disk launcher robot**. The robot will be controlled via a remote with a button to manually launch each loaded disk.
 
 At a minimum, the robot should be able to:
-- [ ] Hold **at least one** disk-ammunition slot
+- [x] Hold **at least one** disk in ammunition slot
 - [x] **Move** based on user input from a remote control
 - [x] **Turn** left or right in place (pivoting without linear movement)
 - [ ] **Adjust the pitch angle** of the disk launcher (increase/decrease)
@@ -38,4 +38,4 @@ This robot should be able to:
 
 ---
 
-Last updated: `9/30/2025`
+Last updated: `10/7/2025`
