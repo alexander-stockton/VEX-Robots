@@ -7,7 +7,7 @@
 
 ## Roles
 - **Austin** — Lead Builder, Designer
-- **James** — Lead Programmer, Lead Designer
+- **James** — Lead Designer, Builder, Programmer
 - **Alex** — Documentation, Builder
 
 ---
