@@ -22,7 +22,7 @@ At a minimum, the robot should be able to:
 - [x] **Move** based on user input from a remote control
 - [x] **Turn** left or right in place (pivoting without linear movement)
 - [ ] **Adjust the pitch angle** of the disk launcher (increase/decrease)
-- [ ] **Launch a disk**
+- [x] **Launch a disk**
 
 ---
 
