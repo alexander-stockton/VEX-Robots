@@ -8,7 +8,7 @@
 ## Roles
 - **Austin** — Lead Builder, Designer
 - **James** — Lead Designer, Builder, Programmer
-- **Alex** — Documentation, Builder
+- **Alex** — Documentation, Programmer
 
 ---
 
@@ -38,4 +38,4 @@ This robot should be able to:
 
 ---
 
-Last updated: `11/18/2025`
+Last updated: `12/2/2025`
