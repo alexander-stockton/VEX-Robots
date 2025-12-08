@@ -21,7 +21,7 @@ At a minimum, the robot should be able to:
 - [x] Hold **at least one** disk in ammunition slot
 - [x] **Move** based on user input from a remote control
 - [x] **Turn** left or right in place (pivoting without linear movement)
-- [ ] **Adjust the pitch angle** of the disk launcher (increase/decrease)
+- [x] **Adjust the pitch angle** of the disk launcher (increase/decrease)
 - [x] **Launch a disk**
 
 ---
@@ -38,4 +38,4 @@ This robot should be able to:
 
 ---
 
-Last updated: `12/2/2025`
+Last updated: `12/8/2025`
