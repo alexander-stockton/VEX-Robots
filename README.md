@@ -46,19 +46,19 @@ This robot could have been able to:
 
 *Primitive launch setup; The disk sits on a track. A rubber band, seated on two wheels, holds the disk in place. A gear (on the bottom) pulls the rubber band back along the track. Originally, a pin was going to lock the gears in place. This was later changed to a hook and screw.*
 
-![Launcher being programmed](./images/Bottom%20of%20Launcher.png)
+![Launcher being programmed](./images/Bottom%20of%20Launcher.pn)
 
 *The launcher has three supports that red motors ride on to control the pitch of the crossbow. These supports let it stand upside down for ease of design.*
 
-![Close up of Motors and Wheels](./images/Motors%20and%20Wheels.png)
+![Close up of Motors and Wheels](./images/Motors%20and%20Wheels.pn)
 
 *Launcher has three layers of mechanisms. Bottom layer contains a hanging brain and battery that controls everything else. Wheels also lie here. Second layer contains the motors and tracks that control the pitch of the crossbow. Top layer contains the ammunition slot and crossbow mechanisms.*
 
-![Launcher sitting idle](./images/Idle.png)
+![Launcher sitting idle](./images/Idle.pn)
 
 *The launcher sitting idle; The crossbow contains two motors attached to a slot and a hook. The pullback gear rotates forward and back to control the launching power. It hook rotates forward to grab a screw. Then it pulls back, allowing the user to load a disk into the ammunition slot. The hook rotates back, and the bungee cord automatically launches the disk forward and out of the crossbow.*
 
-![Crossbow angled upward](./images/Angled%20Crossbow.png)
+![Crossbow angled upward](./images/Angled%20Crossbow.pn)
 
 *The crossbow rests on a rear axle that lets it slide back and forth while its launch angle is adjusted. This prevents the supports being pulled together since diagonals take up less horizontal space. Adjusting the pitch of the crossbow automatically slides it on the axle.*
 
