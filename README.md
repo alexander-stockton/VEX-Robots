@@ -62,4 +62,12 @@ This robot could have been able to:
 
 *The crossbow rests on a rear axle that lets it slide back and forth while its launch angle is adjusted. This prevents the supports being pulled together since diagonals take up less horizontal space. Adjusting the pitch of the crossbow automatically slides it on the axle.*
 
+---
+
+## Videos
+
+[![Demo Launch 1](https://i9.ytimg.com/vi/v-PaDbQJGmM/mq2.jpg?sqp=CPDT4skG-oaymwEoCMACELQB8quKqQMcGADwAQH4Ad4DgALWBooCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLCu007LtNFl1bVpbxK5ncUXhwc9JA)](https://youtube.com/shorts/v-PaDbQJGmM)
+[![Demo Launch 2](https://i9.ytimg.com/vi/AEBZX-9JTr4/mq2.jpg?sqp=CPDT4skG-oaymwEoCMACELQB8quKqQMcGADwAQH4Ad4DgALWBooCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLBzDSF5qdNROFDDdjIaKMhGsc1ABw)](https://youtube.com/shorts/AEBZX-9JTr4)
+[![Test Launch](https://i9.ytimg.com/vi/Y0CRkMKddNA/mq2.jpg?sqp=CPDT4skG-oaymwEoCMACELQB8quKqQMcGADwAQH4Ad4DgALWBooCDAgAEAEYZSBaKFYwDw==&rs=AOn4CLC7q-K95Ivf2qnRxWttHz4n2DPobQ)](https://youtube.com/shorts/Y0CRkMKddNA)
+
 Last updated: `12/9/2025`
